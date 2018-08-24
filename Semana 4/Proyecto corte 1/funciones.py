@@ -235,4 +235,20 @@ def calcular_recaudo_mixto_local(coste_producto_1,
     '''
     #proceso:
     pass
+# funcion para el recaudo total mixto
+def calcular_recaudo_mixto_local(coste_producto_1,
+                                 coste_producto_2,
+                                 horas_1,
+                                 horas_2):
+    '''
 
+    #casos de prueba
+
+    :param coste_producto_1: costo del primer producto
+    :param coste_producto_2: costo del segundo producto
+    :param horas_1:  horas del primer servicio
+    :param horas_2: horas del segundo servicio
+    :return: retorna el total
+    '''
+    #proceso:
+    pass
